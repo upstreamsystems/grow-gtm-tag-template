@@ -1,0 +1,5 @@
+homepage: "https://www.upstreamsystems.com/"
+documentation: ""
+versions:
+  - sha: 65758ababf18f875835ca786afa673260a3ba812
+    changeNotes: Initial release.
